@@ -1,4 +1,4 @@
-# 🌱 Eco-Buddy - Your Personal Sustainability Assistant
+# 🌱 Eco-Buddy AI - Your Personal CarbonBot 
 
 ## 🎥 Live Demo
 
