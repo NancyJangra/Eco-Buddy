@@ -1,10 +1,5 @@
 # 🌱 Eco-Buddy AI - Your Personal CarbonBot 
 
-## 🎥 Live Demo
-
-[Click here to watch the full demo](https://youtu.be/ePm6cVOavmM?si=FxLjftBrlReEl96J)
-
-
 ---
 
 
