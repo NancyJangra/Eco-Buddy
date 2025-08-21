@@ -1,4 +1,4 @@
-# 🌱 Eco-Buddy AI - Your Personal CarbonBot 
+# 🌱 Eco-Track - Your Personal CarbonBot 
 
 ---
 
