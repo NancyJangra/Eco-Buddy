@@ -6,9 +6,6 @@
 
 
 ---
-## 📄 Project Report
-
-[📥 Click here to view the full PDF report](./final%20ppt.pdf)
 
 
 ## 📑 Table of Contents
